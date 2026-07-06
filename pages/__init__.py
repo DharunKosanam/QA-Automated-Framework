@@ -1,0 +1,1 @@
+# makes "pages" a package so tests can do: from pages.chat_page import ChatPage
